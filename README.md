@@ -13,6 +13,9 @@
 2. 可以在CMD命令行中传递参数启动。
 3. 支持使用自动化测试工具，比如playwright启动。
 
+## 完美过BrowserScan\PixelScan\Creepjs检测展示
+![Image text](assets/fp.jpg)
+## 专业浏览器课程培训，[购买课程联系如意老师](https://space.bilibili.com/172381477)
 
 # 准备工作
 首先，从[发布页面]() 下载最新的 mini_installer.exe 安装包,双击后将其安装到PC上。
